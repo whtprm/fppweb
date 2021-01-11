@@ -1,0 +1,15 @@
+.login-hero {
+    width: 100%;
+    height: 100vh;
+    background: url("../img/loginalbedo.jpg") top right;
+    background-size: cover;
+    
+  }
+  
+ 
+  .register {
+    background: rgba(211, 211, 211, 0.5);
+    padding: 21px;
+   }
+   
+
